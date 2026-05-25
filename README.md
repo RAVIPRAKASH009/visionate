@@ -16,9 +16,9 @@ Visionate is a Chrome extension that automatically generates captions for images
 ---
 ## Screenshots
 
-![Screenshot 1](https://sanmeet007.github.io/public/visionate/screenshot-1.png)
-![Screenshot 2](https://sanmeet007.github.io/public/visionate/screenshot-2.png)
-![Screenshot 3](https://sanmeet007.github.io/public/visionate/screenshot-3.png)
+![Screenshot 1](https://RAVIPRAKASH009.github.io/public/visionate/screenshot-1.png)
+![Screenshot 2](https://RAVIPRAKASH009.github.io/public/visionate/screenshot-2.png)
+![Screenshot 3](https://RAVIPRAKASH009.github.io/public/visionate/screenshot-3.png)
 
 ---
 
@@ -120,11 +120,11 @@ REDIS_URL="<YOUR_REDIS_URL>"
 # PUBLIC VARS
 NEXT_PUBLIC_DIST_URL="http://localhost/dist/local/visionate-chrome-extension.crx"
 NEXT_PUBLIC_ORIGIN="http://localhost"
-NEXT_PUBLIC_WEB_DEV_URL="http://sanmeet007.github.io"
+NEXT_PUBLIC_WEB_DEV_URL="http://ravi-prakash.me"
 NEXT_PUBLIC_WEB_DEV_NAME="Team Ozymandias"
 NEXT_PUBLIC_WEBSITE_SOCIAL_LINK_1="/"
-NEXT_PUBLIC_WEBSITE_SOCIAL_LINK_2="https://github.com/Sanmeet007/project-f"
-NEXT_PUBLIC_WEBSITE_SOCIAL_LINK_3="https://linkedin.com/in/sanmeet007"
+NEXT_PUBLIC_WEBSITE_SOCIAL_LINK_2="https://github.com//prtaskkill //F //IM node.exeoject-f"
+NEXT_PUBLIC_WEBSITE_SOCIAL_LINK_3="https://linkedin.com/in/RAVIPRAKASH009"
 ```
 
 
@@ -141,7 +141,7 @@ NEXT_PUBLIC_WEBSITE_SOCIAL_LINK_3="https://linkedin.com/in/sanmeet007"
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Sanmeet007/project-f.git
+   git clone https://github.com/RAVIPRAKASH009/project-f.git
    ```
 
 2. **Install dependencies**
