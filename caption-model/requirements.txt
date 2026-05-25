@@ -1,0 +1,7 @@
+python-dotenv
+torch
+requests
+pillow
+flask
+transformers
+gunicorn

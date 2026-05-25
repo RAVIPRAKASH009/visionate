@@ -1,0 +1,38 @@
+{
+    "name": "Visionate",
+    "description": "Automatically generates AI-powered captions for images as you browse, enhancing accessibility and understanding.",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": false
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*/",
+                "https://*/*",
+                "http://localhost:*/",
+                "http://localhost:*/*"
+            ],
+            "exclude_matches": [
+                "*://*.google.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "storage"
+    ]
+}

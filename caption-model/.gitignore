@@ -1,0 +1,4 @@
+.venv
+.env*
+huggin_face_cache
+**/__pycache__

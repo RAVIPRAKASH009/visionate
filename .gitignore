@@ -1,0 +1,4 @@
+.ig.*
+**/dist/
+*.pem
+venv
